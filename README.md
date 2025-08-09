@@ -5,7 +5,7 @@ Olá! Meu nome é **Alisson** e este repositório documenta minha jornada de apr
 Diferente de um curso tradicional, o objetivo aqui não é apenas seguir uma lista de aulas, mas sim absorver uma **filosofia de desenvolvimento de software**. Este espaço registrará o processo, os erros, as descobertas e a construção de um projeto real, do zero, com foco nos fundamentos.
 
 Sinta-se à vontade para acompanhar a evolução e o raciocínio por trás de cada commit. 🚀
-    
+
 ---
 
 ## 📚 A Jornada: Construindo Software com Profundidade
