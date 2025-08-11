@@ -7,7 +7,7 @@ Diferente de um curso tradicional, o objetivo aqui não é apenas seguir uma lis
 Sinta-se à vontade para acompanhar a evolução e o raciocínio por trás de cada commit. 🚀
 
 ---
-
+    
 ## 📚 A Jornada: Construindo Software com Profundidade
 
 Este repositório seguirá a metodologia do curso, focada em construir um software robusto e bem arquitetado, entendendo o "porquê" de cada decisão. A estrutura do meu aprendizado será:
